@@ -1,0 +1,11 @@
+body{
+    background-color: #fff;
+    font-family: 'Poppins';
+}
+*{
+    font-family: 'Poppins';
+}
+button:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
